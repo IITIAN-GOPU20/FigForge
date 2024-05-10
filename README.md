@@ -11,13 +11,6 @@ FigForge is a conceptually crafted Figma clone project, meticulously engineered 
 - Shadcn
 - Tailwind CSS
 
-
-## <a name="quick-start">🤸 Quick Start</a>
-
-
-Follow these steps to set up the project locally on your machine.
-
-
 ## <a name="features">🔋 Features</a>
 
 👉 **Multi Cursors, Cursor Chat, and Reactions**: Allows multiple users to collaborate simultaneously by showing individual cursors, enabling real-time chat, and reactions for interactive communication.
